@@ -1,0 +1,14 @@
+.container{
+    background-color: rgb(218, 218, 218);
+    width: 50%;
+    margin-left: 300px;
+    padding: 1%;
+}
+h1{
+    color: white;
+    background-color: rgb(180, 180, 180);
+}
+q{
+    margin-left: 5%;
+    font-weight: bold;
+}
