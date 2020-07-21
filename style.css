@@ -1,0 +1,21 @@
+.container{
+    background-color: aliceblue;
+    width: 1000px;
+    margin-left: 150px;
+    border: 2px solid black;
+
+}
+h1,h2,p{
+    padding: 10px;
+} 
+.color,ul{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+.color{
+    font-size: 30px;
+}
+li{
+    margin-left: 25px;
+}
