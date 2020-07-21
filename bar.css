@@ -1,0 +1,19 @@
+.container{
+    background-color: rgb(238, 223, 202);
+    padding: 1%;
+    width: 50%;
+    margin-left: 300px;
+}
+h1{
+    color: rgb(94, 20, 20);
+    background-color: rgb(187, 160, 126);
+}
+h2{
+    color: rgb(117, 31, 31);
+}
+p{
+    margin-left: 50px;
+}
+hr{
+    border:1px solid black;
+}
