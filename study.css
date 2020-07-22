@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(253, 239, 242);
+}
+h1{ 
+    display: flex;
+    background-color: brown;
+    color: white;
+}
+h3{
+    color: red;
+}
+address{
+    margin-left: 20px;
+}
+h2{
+    color: brown;
+}
